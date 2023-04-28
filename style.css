@@ -18,6 +18,7 @@ h2, h4, p {
 }
 
 #card {
+  margin-bottom: none;
   box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.25);
   border-radius: 5px;
   overflow: hidden;
@@ -130,6 +131,7 @@ button:hover {
 
 @media (min-width: 650px){
   #card {
+    margin: auto;
     width: 600px;
     height: 400px;
   }

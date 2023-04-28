@@ -140,5 +140,6 @@ button:hover {
   
   #bottom-left-section, #bottom-right-section {
     width: 50%;
+    height: 50%;
   }
 }
